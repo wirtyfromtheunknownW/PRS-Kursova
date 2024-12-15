@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<library xmlns:fiction="http://example.com/fiction" xmlns:nonfiction="http://example.com/nonfiction">
+    <fiction:book>
+        <fiction:title>The Great Gatsby</fiction:title>
+        <fiction:author>F. Scott Fitzgerald</fiction:author>
+        <fiction:year>1925</fiction:year>
+    </fiction:book>
+    <nonfiction:book>
+        <nonfiction:title>Sapiens: A Brief History of Humankind</nonfiction:title>
+        <nonfiction:author>Yuval Noah Harari</nonfiction:author>
+        <nonfiction:year>2011</nonfiction:year>
+    </nonfiction:book>
+<fiction:book><fiction:title>1984</fiction:title><fiction:author>George Orwell</fiction:author><fiction:year>1949</fiction:year></fiction:book><fiction:book><fiction:title>three body problem</fiction:title><fiction:author>	Liu Cixin</fiction:author><fiction:year>2008</fiction:year></fiction:book></library>
+    
